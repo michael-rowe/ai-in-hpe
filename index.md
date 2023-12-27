@@ -1,10 +1,8 @@
 # Home
+
 There are many resources you can use to learn about generative artificial intelligence (AI) in a wide range of contexts, but few that present the most relevant information in an accessible format. The aim of this resource is to provide a programme of study for anyone interested in the topic of generative AI in the context of higher education.
 
-There are a few things that make this resource different to others:
-
-- Open-access content.
-- Emphasis on open-source language models. 
+There are a few things that make this resource different to others: Open-access content, and emphasis on open-source language models. 
 
 This is not about exploring the cutting edge of generative AI; this course is about exploring the kind of generative AI that's available for everyone.
 
@@ -14,4 +12,6 @@ This is not about exploring the cutting edge of generative AI; this course is ab
 
 **Table of Contents**
 1. An introduction to generative AI.
-2. 
+
+
+---
