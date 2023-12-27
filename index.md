@@ -1,5 +1,4 @@
 # Home
-
 There are many resources you can use to learn about generative artificial intelligence (AI) in a wide range of contexts, but few that present the most relevant information in an accessible format. The aim of this resource is to provide a programme of study for anyone interested in the topic of generative AI in the context of higher education.
 
 There are a few things that make this resource different to others:
