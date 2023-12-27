@@ -1,5 +1,5 @@
-# Artificial intelligence (AI) in higher education
-A free, open-access programme of study on AI in higher education.
+# Generative AI for academics
+A free, open-access programme of study on generative AI for academics.
 
 There are many resources you can use to learn about artificial intelligence (AI) in a wide range of contexts but few that present the relevant information in an accessible format. The aim of this course is to provide a programme of study for academics in a higher education context, who are interested in the topic of AI.
 
