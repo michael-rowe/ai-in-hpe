@@ -13,14 +13,6 @@ This is not about exploring the cutting edge of generative AI; this course is ab
 
 > Because open source and open access are the only way to ensure that this technology is available for everyone who needs it.
 
----
-
 **Table of Contents**
 1. An introduction to generative AI.
 2. 
-
----
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
