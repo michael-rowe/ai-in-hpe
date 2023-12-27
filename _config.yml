@@ -1,6 +1,6 @@
 title: [The title of your site]
 description: [A short description of your site's purpose]
-theme: pages-themes/minimal
+remote-theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
