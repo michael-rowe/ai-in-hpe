@@ -13,7 +13,7 @@ What makes this course different is the focus on open-access content, and open-s
 ---
 
 **Table of Contents**
-1. [Chapter 1](file.md)
-2. [Chapter 2](test.md)
+1. An introduction to generative AI
+2. 
 
 ---
