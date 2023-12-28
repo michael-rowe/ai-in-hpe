@@ -1,21 +1,24 @@
 # Home
 
-There are many resources you can use to learn about generative artificial intelligence (AI) in a wide range of contexts, but few that present the most relevant information in an accessible format. The aim of this resource is to provide a programme of study for anyone interested in the topic of generative AI in the context of higher education.
 
-There are a few things that make this resource different to others: Open-access content, and emphasis on open-source language models. 
+> [!Caution]
+> This course is a work-in-progress. Some content is incomplete. Some links don't work. Some things are just plain wrong. You've been warned.
 
-This is not about exploring the cutting edge of generative AI; this course is about exploring the kind of generative AI that's available for everyone.
+This is a course that I'm putting together to guide my own learning about generative AI in the context of health professions education. I figured I might as well do all the work in public, as it might also be useful for someone else.
 
-*Why do I think this matters?*
+This is not about exploring the cutting edge of generative AI; it's about exploring the kind of generative AI that's available for everyone. Which means that I'm only going to talk about open-source language models, and open-access content.
 
-> Because open source and open access are the only way to ensure that this technology is available for everyone who needs it.
+Find out more about the [background here](./about.md).
 
 **Table of Contents**
-1. [An introduction to generative AI](./introduction.md).
-   1. [Definitions](./definitions.md)
-   2. [History](./history.md)
-   3. [Artificial intelligence](ai.md)
+1. [An introduction to generative AI](./introduction.md)
+   1. [Definitions of terms](./definitions.md)
+   2. [History of generative AI](./history.md)
+   3. [Generative AI and artificial intelligence](ai.md)
 2. [Large language models](./llms.md)
+	1. Foundation models
+	2. Chatbots
 3. [Prompting](./prompting.md)
+4. [Ethics](ethics.md)
 
 ---
