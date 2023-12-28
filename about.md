@@ -26,4 +26,6 @@ I considered creating a section of my blog ([/usr/space](https://www.mrowe.co.za
 
 I've been wanting to learn more about *static site generators* for a while, after having come across them in 2023 while thinking about another project, but haven't had an excuse to figure out how they work. And I've also wanted to explore [Github Pages](https://pages.github.com/) as a free option for publishing my notes (I wasn't going to pay for Obsidian Publish).
 
+Choosing to create the site in Github Pages also means that it's possible for anyone to contribute. Since this is about making sense of generative AI in health professions education, I thought it'd be useful if it wasn't just my opinions (and biases) that get included in the project. You can find out more about [participation here](./participate.md).
+
 ---

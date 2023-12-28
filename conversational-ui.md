@@ -1,4 +1,4 @@
-# Generative AI as a conversational interface
+# Generative AI as a conversational UI
 
 No more UI.
 

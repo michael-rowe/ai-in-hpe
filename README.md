@@ -18,7 +18,7 @@ Find out more about the [background to the project here](./about.md).
 
 **Table of Contents**
 1. [Why generative AI matters](./matters.md)
-	1. [Conversational interface](./conversation.md)
+	1. [Conversational interfaces](./conversational-ui.md)
 	2. [Democratisation of expertise](./expertise.md)
 	3. [Ubiquitous AI](./ubiquitous.md)
 	4. [Hype cycle](./hype.md)
@@ -31,11 +31,13 @@ Find out more about the [background to the project here](./about.md).
 	1. [Foundation models](./foundation.md)
 	2. [Chatbots](./chatbots.md)
 5. [Prompting](./prompting.md)
-6. Generative AI in the university
-	1. AI-first institutions
-	2. 
+6. [Generative AI in the university](./university.md)
+	1. [AI-first institutions](./ai-first.md)
+	2. [Institutional policy development](./institutional-policy.md)
 7. Generative AI in the classroom
-	1. Classroom policy on generative AI
-8. Generative AI for research
+	1. [Classroom policy development](./classroom-policy.md)
+	2. [Student collaboration](./student-collaboration.md)
+	3. [Assesssment](./assessment.md)
+8. [Generative AI for research](./research.md)
 
 ---
