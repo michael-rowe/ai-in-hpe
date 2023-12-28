@@ -1,6 +1,5 @@
-# The Field of artificial intelligence
+# Generative AI and artificial intelligence
 
-**Question:** 
 ## Artificial intelligence
 
 ## Machine learning
