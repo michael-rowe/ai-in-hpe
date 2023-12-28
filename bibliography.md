@@ -12,15 +12,6 @@ Mitchell, M. (2020). _Artificial intelligence: A guide for thinking humans_. Pic
 
 Stodd, J., Schatz, S., & Stead, G. (2023). _Engines of Engagement: A Curious Book About Generative AI_ (First). Sea Salt Learning. https://bit.ly/EnginesOfEngagement
 
-**Courses**
-- [How to use GPTs](https://nationalcentreforai.jiscinvolve.org/wp/2023/11/30/gpts-how-to-guide/)
-- [Student course on gAI](https://dcad.awh.durham.ac.uk/generativeai/#/) from Durham University
-- https://www.deeplearning.ai/
-- [EdX course on AI](https://learning.edx.org/course/course-v1:StellenboschX+AI.HE.4+3T2023/home)
-- FutureLearn: [Generative AI in Higher Education](https://www.futurelearn.com/courses/generative-ai-in-higher-education/1)
-- https://www.fast.ai/
-- Microsoft AI for beginners course: https://github.com/microsoft/AI-For-Beginners/tree/main
-- Microsoft generative AI for beginners: https://github.com/microsoft/generative-ai-for-beginners
 
 **RSS feeds**
 

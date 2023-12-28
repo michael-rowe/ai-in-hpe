@@ -3,6 +3,7 @@
 Question: What are the terms of engagement in this course?
 
 - Algorithm: 
+- Application programming interface (API): 
 - Artificial intelligence (AI): 
 - Artificial general intelligence (AGI): 
 - Artificial super intelligence (ASI): 

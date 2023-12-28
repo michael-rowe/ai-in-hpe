@@ -9,7 +9,43 @@
 ---
 ## What is a *prompt*?
 
+At the surface level, a prompt is the text (or image) you provide to the language model that initiates your interaction.
 
+At a deeper level, the prompt establishes the context for the interaction.
+
+---
+# Structure of a prompt
+
+A useful way to think about structuring prompts is:
+
+- Role: Give the language model a persona where you tell it what it is good at.
+- Goal: Explain what outcome you're looking for.
+- Instruct: Tell the language model what you want it to do.
+
+Another framework is CIDI:
+
+- Context: 
+- Instructions: 
+- Details: 
+- Input: 
+
+**Example**
+
+```
+You are an ICU nurse with 20 years of experience. etc.
+```
+
+
+---
 ## Types of prompts
 
 ### Chain of Thought prompting
+
+
+---
+
+# Additional reading
+
+
+
+---
