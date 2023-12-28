@@ -1,16 +1,3 @@
----
-tags:
-  - generative-ai
-  - tutorial
-  - course
-  - health-professions-education
-  - Gemini
-  - Bard
-  - Claude
-  - ChatGPT
-  - GPT
----
-
 # Home
 
 
