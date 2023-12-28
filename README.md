@@ -12,6 +12,9 @@ This is not about exploring the cutting edge of generative AI; this course is ab
 
 **Table of Contents**
 1. [An introduction to generative AI](./introduction.md).
+   1. [Definitions](./definitions.md)
+   2. [History](./history.md)
+   3. [Artificial intelligence](ai.md)
 2. [Large language models](./llms.md)
 3. [Prompting](./prompting.md)
 
