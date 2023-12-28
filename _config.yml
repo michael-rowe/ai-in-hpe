@@ -1,5 +1,6 @@
-title: Generative AI in higher education
-description: An open-source, open-access resource on generative AI in higher education
-remote_theme: pages-themes/minimal@v0.2.0
+title: Generative AI in health professions education
+description: An open-source, open-access resource on generative AI in HPE.
+url: https://michael-rowe.github.io/ai-in-hpe/
+remote_theme: pmarsceill/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
