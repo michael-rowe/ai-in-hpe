@@ -11,7 +11,8 @@ This is not about exploring the cutting edge of generative AI; this course is ab
 > Because open source and open access are the only way to ensure that this technology is available for everyone who needs it.
 
 **Table of Contents**
-1. An introduction to generative AI.
-
+1. [An introduction to generative AI](./introduction.md).
+2. [Large language models](./large%20language%20models.md)
+3. [Prompting](./prompting%20language%20models.md)
 
 ---
