@@ -12,6 +12,8 @@ Many people approach prompting like they approach internet search. They provide 
 
 Approach language model prompting as if you were having a conversation with a person.
 
+https://www.youtube.com/watch?v=wbGKfAPlZVA
+
 ## What is a *prompt*?
 
 At the surface level, a prompt is the text (or image) you provide to the language model that initiates your interaction.

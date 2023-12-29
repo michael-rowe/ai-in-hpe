@@ -20,3 +20,8 @@ Commercial language models.
 
 ### Size
 
+---
+
+# Additional reading
+
+- https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/

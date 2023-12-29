@@ -36,7 +36,8 @@ And I figured I might as well do all the work in public, just in case it's usefu
 	5. [Accountability](./accountability.md)
 	6. [Copyright](./copyright.md)
 	7. [Sustainability](./sustainability.md)
-	8. Justice
+	8. [Automation](./automation.md)
+	9. Justice
 3. [An introduction to generative AI](./introduction.md)
 	1. [Definitions of terms](./definitions.md)
 	2. [History of generative AI](./history.md)
