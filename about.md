@@ -19,6 +19,7 @@ This is the process whereby information moves from The World into this site:
 
 - A collection of filtered content.
 - A dump of information.
+- An uncritical praising of all things AI.
 
 ---
 ## Technology choices

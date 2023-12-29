@@ -12,4 +12,4 @@ At the moment, there are limited ways to contribute to the project.
 
 1. Share the link on the Interwebs.
 2. [Create an issue](https://github.com/michael-rowe/ai-in-hpe/issues) on Github.
-3. Join the project on Github and edit pages directly.
+3. [Create a Github account](https://docs.github.com/en/get-started/quickstart/creating-an-account-on-github) and ask me for an invitation to collaborate (more about this process [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository)).
