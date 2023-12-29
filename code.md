@@ -41,6 +41,10 @@ If it takes ten minutes to build an app using natural language, and each app we 
 
 # Additional reading
 
-Carrigan, M. (2023). Code Interpreter for ChatGPT is mind blowing. (2023, July 31). Retrieved from https://markcarrigan.net/2023/07/31/code-interpreter-for-chatgpt-is-mind-blowing
+Carrigan, M. (2023). Code Interpreter for ChatGPT is mind blowing. (2023, July 31). Retrieved from <https://markcarrigan.net/2023/07/31/code-interpreter-for-chatgpt-is-mind-blowing>
 
-[^1]: Code Interpreter is a tool developed by OpenAI to support programming by both novice and experienced software developers. It is available through the paid version of ChatGPT (i.e. ChatGPT Plus).
+---
+
+**Footnotes**
+
+[^1]: [Code Interpreter](https://platform.openai.com/docs/assistants/tools/code-interpreter) is a plugin developed by OpenAI to support programming by both novice and experienced software developers. It basically enables ChatGPT to write and execute code. It is only available to ChatGPT Plus subscribers.
