@@ -11,12 +11,13 @@ So I've put together a curriculum for myself. This site is the framework for tha
 
 And I figured I might as well do all the work in public, just in case it's useful for someone else.
 
-**Admin**
+**Background**
 
 - Before you start, you may want to check out these suggestions on [how to use this resource](./how.md).
 - If you're feeling feisty, find out how to [participate](./participate.md).
 - Find out more about the [background to the project here](./about.md).
 - [Roadmap for the project](./roadmap.md).
+- Submit an [issue here](https://github.com/michael-rowe/ai-in-hpe/issues). Issues can be errors, broken links, suggestions, disagreements, and so on.
 
 ---
 
