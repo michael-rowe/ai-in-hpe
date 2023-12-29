@@ -46,6 +46,7 @@ And I figured I might as well do all the work in public, just in case it's usefu
 	2. [Tokens](./tokens.md)
 	3. [Chatbots](./chatbots.md)
 	4. [Prompting](./prompting.md)
+	5. [Multimodality](./multimodality.md)
 5. Regulation
    1. [Copyright](./copyright.md)
 6. [Generative AI in the university](./university.md)
