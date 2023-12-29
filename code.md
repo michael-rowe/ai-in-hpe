@@ -2,11 +2,11 @@
 
 What is the difference between knowing things and doing things?
 
-![[code as incantation.webp]]
+![Quote by Clive Thompson, from Coders: "One types the correct incantation on a keyboard, and display screen comes to life, showing things that never were nor could be."](./media/code as incantation.webp "Quote by Clive Thompson, from the book, Coders.")
 
 “In the beginning was the Word.”
 
-Certain words have power. We see evidence of this across all the professions, where the words we use give us access to a community, and a sense of identity.
+Words have power. We see evidence of this across all the professions, where the words we use give us access to a community, and a sense of identity.
 
 And increasingly, we see more and more people developing the ability to turn words into action. To turn ideas into code (see Code Interpreter).
 
