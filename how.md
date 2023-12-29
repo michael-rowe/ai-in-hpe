@@ -18,5 +18,4 @@ It you're feeling feisty, you can clone the Github repository and create a local
 
 ## Learning assistant
 
-I'm not ready for this yet but at some point, I'd like to [create a GPT(https://nationalcentreforai.jiscinvolve.org/wp/2023/11/30/gpts-how-to-guide/)] of this site, where you can interact with the content through a language model. In other words, to use generative AI to learn about using using generative AI.
-
+I'm not ready for this yet but at some point, I'd like to [create a GPT](https://nationalcentreforai.jiscinvolve.org/wp/2023/11/30/gpts-how-to-guide/) of this site, where you can interact with the content through a language model. In other words, to use generative AI to learn about using using generative AI.
