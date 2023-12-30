@@ -8,6 +8,9 @@ tags:
   - Google
 author: Michael Rowe
 ---
+
+# Created a sitemap and verified ownership with Google
+
 I used the Jekyll *sitemap* plugin to build the [sitemap](https://www.wikiwand.com/en/Sitemap), which was much easier than I thought it would be. A sitemap increases a site's visibility for search engines:
 
 > For use by search engines and other crawlers, there is a structured format, the XML Sitemap, which lists the pages in a site, their relative importance, and how often they are updated. This is pointed to from the robots.txt file and is typically called sitemap.xml.

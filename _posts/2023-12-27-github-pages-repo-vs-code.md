@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Created the AI in HPE Github Pages repository
 date: 2023-12-27
 description: Where I explain setting up the Github repository and connecting it to Visual Studio Code. Basically, launching this project.
@@ -8,6 +8,9 @@ tags:
   - Github-Pages
 author: Michael Rowe
 ---
+
+# Created the AI in HPE Github Pages repository
+
 On the 27th of Dec I created the [ai-in-hpe Github repository](https://github.com/michael-rowe/ai-in-hpe) for this project. I had a basic idea of how the markdown files in that repo would be converted into a website via [Jekyll](https://www.wikiwand.com/en/Jekyll_(software)) but no real understanding of the process.
 
 I edited the README.md file to make sure that the content was displaying on the home page, and then added a few more pages with links to ensure that they site actually worked.
