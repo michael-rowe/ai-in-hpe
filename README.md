@@ -5,7 +5,7 @@
 
 This is a site[^2] I'm putting together to guide my own learning about generative AI in the context of health professions education.
 
-Over the past year or so, I've kept up to date with the accelerating progression of generative AI development in a haphazard and ad hoc fashion. I subscribe to newsletters, blog posts, YouTube channels, podcasts, and academic journals, mostly just consuming whatever happens to be included in the deluge that comes my way. In 2024 I want to take a more intentional approach to my learning about generative.
+Over the past year or so, I've kept up to date with the accelerating progression of generative AI development in a haphazard and ad hoc fashion. I subscribe to newsletters, blog posts, YouTube channels, podcasts, and academic journals, mostly just consuming whatever happens to be included in the deluge that comes my way. In 2024 I want to take a more intentional approach to my learning about generative AI.
 
 So I've put together a curriculum for myself. This site is the framework for that curriculum, which I'll update as I work through my notes.
 
@@ -19,10 +19,14 @@ And I figured I might as well do all the work in public, just in case it's usefu
 - [Roadmap for the project](./roadmap.md).
 - Submit an [issue here](https://github.com/michael-rowe/ai-in-hpe/issues). Issues can be errors, broken links, suggestions, disagreements, and so on.
 - Follow [news updates](./blog.md) (or subscribe to the [RSS feed](./feed.xml)).
+- [Contact me](./contact.md). If you want to. No pressure.
 
 ---
 
 **Table of Contents**[^3]
+
+*Note that most of these pages are currently blank. They'll fill up over time, as I work through my notes and resources. This is a framework that will guide my learning and over time will become a resource for anyone. Right now it's nothing but a collection of links.*
+
 1. [Why generative AI matters](./matters.md)
 	1. [Conversational interfaces](./conversational-ui.md)
 	2. [Ubiquitous AI](./ubiquitous.md)
