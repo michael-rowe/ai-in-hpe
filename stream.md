@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feed
+title: Stream
 ---
 
 # Feed

@@ -1,5 +1,5 @@
 ---
-- layout: feed
+- layout: stream
 - author: Maximilian Schreiner
 - title: Microsoft Uses AI to Speed Up Small Nuclear Reactor Approvals for AI Training Data Centers
 - description: Microsoft is training an AI to generate the necessary paperwork for regulatory approval of next-gen nuclear reactors.
