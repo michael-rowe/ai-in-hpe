@@ -8,7 +8,7 @@
 
 **Search**: Because this site is built with a static site generator (i.e. no database or PHP...just plain HTML) there's no search function that's easy to integrate. Because I want this to be a dictionary as well as a programme of study, search is probably important to include. I have no idea how to do this.
 
-**Analytics**: I'd like to include an open-source version of Google Analytics on the site. This is complicated because Pages only hosts static web content and doesn't support any server-side processing. So I'd need to host the software on another server. Possible. But complicated. [Offen](https://www.offen.dev/) looks like a good option. That may mean that I need to go with Google Analytics to start with.
+**Analytics**: I'd like to include an open-source version of Google Analytics on the site. This is complicated because Pages only hosts static web content and doesn't support any server-side processing. So I'd need to host the software on another server, which means it's possible but complicated. [Offen](https://www.offen.dev/) looks like a good option.
 
 **SEO tags**: I've started adding metadata to the pages generated on the site, but the *SEO tag* plugin gives more granular options for adding metadata to the site. This helps with search and discoverability.
 
