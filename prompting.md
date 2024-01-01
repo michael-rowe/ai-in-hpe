@@ -13,14 +13,11 @@ Many people approach prompting like they approach internet search. They provide 
 
 Approach language model prompting as if you were having a conversation with a person. This section is about exploring different ways to do this, as well as the implications that arise when we think of interacting with machines through natural human language.
 
----
 ## What is a *prompt*?
 
 At the surface level, a prompt is the text (or image) you provide to the language model that initiates your interaction.
 
 At a deeper level, the prompt establishes the context for the interaction.
-
----
 
 ## Structure of a prompt
 
@@ -40,7 +37,6 @@ You are an ICU nurse with 20 years of experience. You have also completed severa
 
 [Click here](https://g.co/bard/share/06f3bdc60da9) to see the response from Bard. In this example you may find that the first response is all you need. However, it can sometimes be the case that the initial interaction isn't enough. When this happens you need to understand how to iteratively craft better prompts.
 
----
 ## Prompt crafting
 
 Some people refer to this as *prompt engineering* but that feels more like there's a correct way to create the prompt. 'Crafting' brings to mind an iterative process that is more subjective.
@@ -67,8 +63,6 @@ For example:
 
 When you get into the habit of following up with generative AI, you'll quickly find yourself engaging in what feels like a natural conversation with an expert.
 
----
-
 ## Types of prompts
 
 ### Conversational prompting
@@ -84,15 +78,11 @@ Once you realise that you interact with LLMs through conversations, it opens up 
 
 Conversational prompts are a great way to get started using generative AI. But they're the least powerful form of prompting.
 
----
-
 ### Chain-of-thought prompting
 
 Chain-of-thought prompting is a method that improves the reasoning abilities of large language models by providing a series of intermediate reasoning steps as exemplars in prompting.
 
 This method can improve performance on arithmetic, commonsense, and symbolic reasoning tasks for large language models. The gains in performance can be striking, surpassing even fine-tuned models and achieving new state-of-the-art results.
-
----
 
 # Additional reading
 
@@ -100,5 +90,3 @@ This method can improve performance on arithmetic, commonsense, and symbolic rea
 - Mastroianni, A. (2022). Good conversations have lots of doorknobs. Experimental History. Retrieved from https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs
 - Mollick, E. (2023). Now is the time for grimoires. One Useful Thing. Retrieved from https://www.oneusefulthing.org/p/now-is-the-time-for-grimoires
 - Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E.H., Xia, F., Le, Q., & Zhou, D. (2022). Chain of Thought Prompting Elicits Reasoning in Large Language Models. _ArXiv, abs/2201.11903_ ([link to article in Semantic Reader](https://www.semanticscholar.org/reader/1b6e810ce0afd0dd093f789d2b2742d047e316d5))
-
----
