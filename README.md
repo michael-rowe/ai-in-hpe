@@ -1,7 +1,7 @@
 # Home
 
 > [!Caution]
-> This site is a work-in-progress. Some content is incomplete. Some links don't work. Some things are just opinions that I've made up. And some information is just plain wrong.[^1] Common sense is required.
+> This site is a work-in-progress. There is almost no content yet. The existing content is incomplete. Some links don't work. Some things are just opinions that I've made up. And some information is just plain wrong.[^1] Common sense is required.
 
 This is a site[^2] I'm putting together to guide my own learning about generative AI in the context of health professions education.
 
@@ -18,7 +18,7 @@ And I figured I might as well do all the work in public, just in case it's usefu
 - Find out more about the [background to the project here](./about.md).
 - [Roadmap for the project](./roadmap.md).
 - Submit an [issue here](https://github.com/michael-rowe/ai-in-hpe/issues). Issues can be errors, broken links, suggestions, disagreements, and so on.
-- Site [news updates](./blog.md) (you can also subscribe to the [RSS feed](./feed.xml)).
+- [Project updates](./blog.md).
 - [Contact me](./contact.md). If you want to. No pressure.
 
 ---
