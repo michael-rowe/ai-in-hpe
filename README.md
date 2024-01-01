@@ -9,7 +9,7 @@ Over the past year or so, I've kept up to date with the accelerating progression
 
 So I've put together a curriculum for myself. This site is the framework for that curriculum, which I'll update as I work through my notes.
 
-And I figured I might as well do all the work in public, just in case it's useful for someone else. **I've done the most work on the page for [prompting](./prrompt.md), so you can get a sense of the style of this resource**.
+And I figured I might as well do all the work in public, just in case it's useful for someone else. **I've done the most work on the page for [prompting](./prompting.md), so you can get a sense of the style of this resource**.
 
 **Background**
 
