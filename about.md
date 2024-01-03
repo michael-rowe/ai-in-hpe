@@ -6,24 +6,16 @@ I've been conscious of the fact that most of what I've learned about generative 
 
 So I've started putting together a programme of study that would provide a framework for what I learned, making it more structured and guided.
 
----
-## Process
+You could think of this as an opinionated guide to generative AI in health professions education. For now, it's mostly my opinion but I'm hoping the project picks up collaborators along the way, so that it becomes more a shared sense-making experience. And therefore, a wider diversity of opinions.
 
-This is the process whereby information moves from The World into this site:
-1. Something arrives in my feed that looks interesting.
-2. I save it into Reader with appropriate tags to find later.
-3. I read and annotate it with tags and notes.
-4. Those annotations get imported into Obsidian.
-5. I read the annotations and sometimes convert them into blog posts, permanent notes, course content, etc.
-6. And that's where it used to end. Now, there's another step: move the most important information (IMO) to this site.
+**What the project is not:**
 
-**What the site is not:**
-
-- A collection of filtered content.
-- A dump of information.
+- A collection of content or dump of information.
 - An uncritical praising of all things AI.
+- What the future *could* be i.e. this is about what is, today.
 
 ---
+
 ## Technology choices
 
 I considered creating a section of my blog ([/usr/space](https://www.mrowe.co.za/blog/)) to capture what I was learning but I worried that I'd be spending a lot of time messing around with the CMS part of a website. I do most of my writing in Obsidian and thought it would be a hassle to move content from there to WordPress.
