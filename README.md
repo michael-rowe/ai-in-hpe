@@ -9,17 +9,13 @@ Over the past year or so, I've kept up to date with the accelerating progression
 
 So I've put together a curriculum for myself. This site is the framework for that curriculum, which I'll update as I work through my notes.
 
-And I figured I might as well do all the work in public, just in case it's useful for someone else. **I've done the most work on the page for [prompting](./prompting.md), so you can get a sense of the style of this resource**.
+And I figured I might as well do all the work in public, just in case it's useful for someone else.
 
 **Background**
 
 - Before you start, you may want to check out these suggestions on [how to use this resource](./how.md).
 - If you're feeling feisty, find out how to [participate](./participate.md).
-- Find out more about the [background to the project here](./about.md).
-- [Roadmap for the project](./roadmap.md).
-- Submit an [issue here](https://github.com/michael-rowe/ai-in-hpe/issues). Issues can be errors, broken links, suggestions, disagreements, and so on.
-- [Project updates](./blog.md).
-- [Contact me](./contact.md). If you want to. No pressure.
+- [Roadmap] for the project(./roadmap.md).
 
 ---
 
