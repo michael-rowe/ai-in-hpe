@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Added Google Analytics
 date: 2023-12-31
 description: Where I explain why I'm using Google Analytics.

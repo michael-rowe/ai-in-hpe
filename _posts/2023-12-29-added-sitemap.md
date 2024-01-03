@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Created a sitemap and verified ownership with Google
 date: 2023-12-29
 description: Used the Jekyll sitemap plugin to generate a sitemap and submitted it to Google. I also verified the site with Google, giving me full permissions in Console.
