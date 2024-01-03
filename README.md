@@ -15,7 +15,7 @@ And I figured I might as well do all the work in public, just in case it's usefu
 
 - Before you start, you may want to check out these suggestions on [how to use this resource](./how.md).
 - If you're feeling feisty, find out how to [participate](./participate.md).
-- [Roadmap] for the project(./roadmap.md).
+- [Roadmap](./roadmap.md) for the project.
 
 ---
 
