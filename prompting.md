@@ -54,7 +54,7 @@ Part of the goal statement might be to include specific detail about what you're
 
 This is a way of inserting yourself and your experience and insight into the prompt, in a [collaborative interaction](./human-ai collaboration.md) with the model that further enhances the quality of the interaction.
 
-**Example** (using [Bard](https://bard.google.com/chat), after the [December 2023 update](https://bard.google.com/updates) to [Gemini Pro](./gemini.md)).
+**Example** (using [Bard](https://bard.google.com/chat)).
 
 ```
 You are an ICU nurse with 20 years of experience. You have also completed several leadership and conflict resolution courses. I am a second year nursing student and I have a patient with a complicated presentation that I'm uncomfortable dealing with on my own. However, my clinical supervisor isn't the most approachable person and I'm reluctant to ask for help. Please give me some advice on how I might proceed. Give me examples and a series of steps I can follow.
@@ -111,6 +111,10 @@ Auto-GPT, [an open-source experiment](https://github.com/Torantulino/Auto-GPT), 
 - Mollick, E. (2023). Now is the time for grimoires. One Useful Thing. Retrieved from https://www.oneusefulthing.org/p/now-is-the-time-for-grimoires
 - Mollick, E, and Mollick, L. (2023). Practical AI for Instructors and Students Part 3: Prompting AI.
 - Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E.H., Xia, F., Le, Q., & Zhou, D. (2022). Chain of Thought Prompting Elicits Reasoning in Large Language Models. _ArXiv, abs/2201.11903_ ([link to article in Semantic Reader](https://www.semanticscholar.org/reader/1b6e810ce0afd0dd093f789d2b2742d047e316d5))
+
+---
+
+**Footnotes**
 
 [^1]: It can be confusing to talk about the model being online. After all, you're online because that's the only way you could be interacting with the model. However, you're connected to the chatbot i.e. the user-facing part of the system. The chatbot in turn, connects to the model that's running on a server somewhere. And it may not be the case that the model is connected to the internet.
 [^2]: Another common example I see often is the CIDI framework: Context, Instruction, Details, and Input.
