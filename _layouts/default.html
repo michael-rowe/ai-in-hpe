@@ -28,8 +28,6 @@
 {% seo %}
     {% include head-custom.html %}
 
-    {% include menu.html %}
-
   </head>
 
   <body>
@@ -55,6 +53,7 @@
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %}
+          {% include menu.html %} <!-- Menu content -->
         </header>
     </div>
 
