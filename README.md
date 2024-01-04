@@ -47,7 +47,7 @@ And I figured I might as well do all the work in public, just in case it's usefu
 4. [Large language models](./llms.md)
 	1. [Foundation models](./foundation.md)
 	2. [Tokens](./tokens.md)
-	3. [Chatbots](./chatbots.md)
+	3. [Chatbots](chatbot.md)
 	4. [Prompting](./prompting.md) **(try this one as an example)**
 	5. [Multimodality](./multimodality.md)
 5. Regulation

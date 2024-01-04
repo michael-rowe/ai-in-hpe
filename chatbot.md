@@ -7,9 +7,7 @@ tags:
   - OpenChat
   - Copilot
 ---
-
-
 # Chatbots
 
-Chatbots are 
+A chatbot is...
 
