@@ -25,3 +25,5 @@ The licensor cannot revoke these freedoms as long as you follow these license te
 - **Attribution** — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 - **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+**Process**: The code to embed the license text is copied directly from the Creative Commons website (after selecting a suitable license). That code is then pasted directly into the `<footer>` section of the *default.html* layout file. And then I removed the image links from the original code.
