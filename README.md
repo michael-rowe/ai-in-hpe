@@ -23,4 +23,3 @@ And I figured I might as well do all the work in public, just in case it's usefu
 
 [^1]: Unsurprisingly, this is just like you get with a language model.
 [^2]: I'm not sure what exactly this resource is going to be. It may be a phased approach where it starts as something more like a dictionary of terms, then becomes a wiki, and maybe progressing to an online course.
-[^3]: This will almost certainly not be the structure for very long. I'm experimenting with different organisation principles for the content and this category-type approach isn't very satisfying for a learning resource.

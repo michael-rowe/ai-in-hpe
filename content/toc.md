@@ -1,4 +1,4 @@
-**Table of Contents**[^3]
+**Table of Contents**[^1]
 
 *Note that most of these pages are currently blank. They'll fill up over time, as I work through my notes and resources. This is a framework that will guide my learning and over time will become a resource for anyone. Right now it's nothing but a collection of links.*
 
@@ -42,3 +42,9 @@
 	5. [Assessment](./assessment.md)
 	6. [Responsible use of generative AI](./responsible.md)
 8. [Generative AI for research](./research.md)
+
+---
+
+**Footnotes**
+
+[^1]: This will almost certainly not be the structure for the content. I'm experimenting with different organisation principles for the content and this category-type approach isn't very satisfying for a learning resource. It's too rigid and requires me to put everything into a box, which isn't how learning works.
