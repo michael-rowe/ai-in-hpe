@@ -11,7 +11,9 @@ tags:
 
 Many people approach prompting like they approach internet search. They provide a few keywords and expect 'the answer'. This is the wrong way to think about prompting language models.
 
-Approach language model prompting as if you were having a conversation with a person. This section is about exploring different ways to do this, as well as the implications that arise when we think of interacting with machines through natural human language.
+Approach language model prompting as if you were having a conversation with a person. In particular, a *skilful conversation with a domain expert*, where generative AI is the expert. Your job is to use the prompt to extract the most valuable expertise from the model.
+
+This section is about exploring different ways to do this, as well as the implications that arise when we think of interacting with machines through natural human language.
 
 ## What is a *prompt*?
 
@@ -48,7 +50,7 @@ A useful way to think about structuring prompts for more effective outputs is:
 - **Goal**: Explain what outcome you're looking for.
 - **Instruct**: Tell the language model what you want it to do; ask it for examples and steps to follow.
 
-One of the most interesting things about giving the model a persona is that it doesn't need to be a living person, or even a person. Imagine telling the model that it is 'an overburdened hospital, working to provide services to a resource-constrained community', or that it is a 'ventilator, providing life-support to a terminally ill patient, during visiting hours'. This kind of prompt can generate different perspectives that provide an alternative context for a reflective exercise.
+One of the most interesting things about giving the model a persona is that it doesn't need to be a living person, or even a person. Imagine telling the model that it is 'an overburdened hospital, working to provide services to a resource-constrained community', or that it is a 'ventilator, providing life-support to a terminally ill patient, during visiting hours'. This kind of creative prompt can generate different perspectives that provide an alternative context for a reflective exercise.
 
 Part of the goal statement might be to include specific detail about what you're looking for. After all, you're the expert in this domain and you probably have a sense of what you're looking for. Giving the model a specific goal will help to limit the total space of possible responses, thereby generating a more useful response.
 
@@ -82,9 +84,21 @@ For example:
 
 When you get into the habit of following up with generative AI, you'll quickly find yourself engaging in what feels like a natural conversation with an expert.
 
+### Zero-shot prompting
+
+In this approach you ask the model to complete a new task without giving it any prior examples.
+
+### Few-shot prompting
+
+You provide a few examples to establish a context for the model before giving it the actual task.
+
+For example, you might want to ask for an output in a certain style but you're not sure what that style might be called. In this case you could share an example of a style you like, or that you want it to emulate, and ask the model to describe that style. Then you can use that description of the style in your prompt. This works quite effectively with image generation prompts.
+
 ### Chain-of-thought prompting
 
-Chain-of-thought prompting is a method that improves the reasoning abilities of large language models by providing a series of intermediate reasoning steps as exemplars in prompting.
+Chain-of-thought prompting is a method that improves the reasoning abilities of large language models by providing a series of intermediate reasoning steps as exemplars in prompting. You are essentially guiding the model through a logical progression or sequence.
+
+This is particularly useful for complex queries where the answer requires a series of steps or considerations.
 
 This method can improve performance on arithmetic, commonsense, and symbolic reasoning tasks for large language models. The gains in performance can be striking, surpassing even fine-tuned models and achieving new state-of-the-art results.
 
