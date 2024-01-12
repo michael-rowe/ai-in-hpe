@@ -6,7 +6,7 @@ People seem to think there's a danger of language models being controlled by sin
 
 But there will be thousands of generative AI models available, and millions of instances of those models. Possibly billions of instances.
 
-Open-source language models may not be as powerful - although that's far from clear at this stage - but they will be prevalent.
+> ...OpenAI is planning an upgrade to ChatGPT that will allow users to customize the behavior of the AI model to their needs within "limits defined by society."
 
 I imagine a world where every person not only has their own AI, but where you have multiple AIs, each responsible for a different aspect of your life.
 
@@ -15,6 +15,8 @@ We find ourselves in a strange position at the moment, where we have only a few 
 For myself, I want my AIs to be both creative and critical, challenging me to think differently. I want them constantly running in the background, alerting me when I'm making assumptions, or that I'm acting according to my confirmation bias. I want my AIs to let me know when I'm being insensitive, or abrupt, and to step in to adjust my responses to more effectively take into account the feelings of the person I'm interacting with.
 
 I see a world full of AIs, all in the service of ensuring that we treat each other more carefully.
+
+Related to this, is the idea  [open-source language models](./open-source-llm.md) may not be as powerful as the most advanced and expensive foundation models - although that's far from clear at this stage. However, they will almost certainly be prevalent.
 
 ---
 

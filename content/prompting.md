@@ -112,9 +112,16 @@ This becomes especially interesting when the model is connected to the internet,
 
 Auto-GPT, [an open-source experiment](https://github.com/Torantulino/Auto-GPT), is an early example of auto-prompt technology.
 
-
 > [!Related] Related
 > [Autonomous AI systems](./autonomy.md).
+
+## Student-led prompting
+
+This isn't a technical approach, but an example of a student-led use of generative AI.
+
+> This was a first for me: a student asking for a letter of recommendation sent me the usual, a copy of their resume & a description of the job they were applying for…and a suggested GPT-4 prompt that would generate a good recommendation letter from me, given that information! ([Ethan Mollick, 2024](https://twitter.com/emollick/status/1744777682691203406))
+
+This is a great example of student, teacher, and AI working together to reduce the time it takes to write a good recommendation letter. Everyone wins.
 
 # Additional reading
 

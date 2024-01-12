@@ -3,9 +3,7 @@
 > [!Caution]
 > This site is a work-in-progress. There is almost no content yet. The existing content is incomplete. Some links don't work. Some things are just opinions that I've made up. And some information is just plain wrong.[^1] Common sense is required.
 
-Use the **TOC link** in the menu above to get to the site content.
-
-This is a site[^2] I'm putting together to guide my own learning about generative AI in the context of health professions education.
+This is a site[^2] I'm putting together to guide my own learning about generative AI in the context of health professions education. Use the **TOC link** in the menu above to get to the site content.
 
 Over the past year or so, I've kept up to date with the accelerating progression of generative AI development in a haphazard and ad hoc fashion. I subscribe to newsletters, blog posts, YouTube channels, podcasts, and academic journals, mostly just consuming whatever happens to be included in the deluge that comes my way. In 2024 I want to take a more intentional approach to my learning about generative AI.
 
