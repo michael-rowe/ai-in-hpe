@@ -18,6 +18,10 @@
 
 **Translation**: Because the site is hosted in Github and the content is open-access, it means that anyone can modify this content and create new versions. It might be nice if someone wanted to create translations of the English version of the project. No pressure.
 
+**OPML**: I use an RSS reader to keep up-to-date with almost all of my reading around generative AI (actually, for almost all my reading, period). I want to export the [OPML file](https://www.wikiwand.com/en/OPML) so that anyone else can import that file into their own RSS reader and immediately have access to all the same resources I follow. They could then remove and add their own resources to personalise their reading list. I'm wondering if we could have a GitHub repository that acts as a shared OPML file?
+
+**YouTube playlist**: I have a YouTube channel called *Thinking in Public*, and I'm wondering about creating a playlist to capture any videos I come across that might be useful for anyone interesting in this resource. But I could probably do the same thing by capturing the links in the Zotero library.
+
 ---
 
 # Completed
