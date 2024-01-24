@@ -23,12 +23,17 @@ I don't know if this is true for AI but Bitcoin mining can be made to use 'stran
 
 ## Water consumption
 
+I'm going to go into this in more detail, but for now, I'll just say that we use more water (a lot more water) in the production of almonds, than we do on generative AI. Now, I like almonds but I'd give up almonds any day of the week before I give up AI. If we're going to complain about how much water we use in the creation of AI, I'd like to see proportionally more space given to complaints about almonds.
 
-## AI as part of the solution
+## Material science
+
+AI is increasingly helpful in the discovery of new materials, which are going to central in the fight against climate change. And Google DeepMind has an AI tool they used to create [700 new materials](https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/).
+
+## Nuclear energy
+
+I'm not going to make an argument that nuclear energy is the best solution to the climate crisis. However, sustainable energy production through wind and solar isn't currently close to what we need to keep society running. The only other way we know how to create abundant energy with low emissions is nuclear. And AI has a part to play.
 
 Microsoft has started training AI to [generate the paperwork](https://the-decoder.com/microsoft-uses-ai-to-speed-up-small-nuclear-reactor-approvals-for-ai-training-data-centers/) necessary for regulatory approval of next-generation nuclear reactors[^1] that that will power data centres. The time taken to bring this technology online might be significantly reduced through the use of AI in the process, helping organisations move away from fossil fuel power.
-
-
 
 # Additional resources
 
