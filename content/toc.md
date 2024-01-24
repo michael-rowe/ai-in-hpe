@@ -17,7 +17,7 @@
 	6. [Copyright](./copyright.md)
 	7. [Sustainability](./sustainability.md)
 	8. [Automation](./automation.md)
-	9. Justice
+	9. [Justice](.justice.md)
 3. [An introduction to generative AI](./introduction.md)
 	1. [Definitions of terms](./definitions.md)
 	2. [History of generative AI](./history.md)
