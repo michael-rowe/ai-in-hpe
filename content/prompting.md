@@ -36,7 +36,23 @@ Conversational prompts are a great way to get started using generative AI but th
 
 ## Structured prompting
 
+This is a process or providing explicit instructions to the language model. Detailed, explicit instructions produce better results than open-ended prompts. You can think about giving explicit instructions as using rules and restrictions to how the model responds to your prompt.
+
 Some people refer to this as *prompt engineering* but that feels more like there's a correct way to create the prompt. 'Crafting' brings to mind an iterative process that is more subjective.
+
+There are a few factors to consider when crafting a prompt (Facebook research, 2024):
+- Stylisation
+    - `Explain this to me like a topic on a children's educational network show teaching elementary students.`
+    - `I'm a software engineer using large language models for summarization. Summarize the following text in under 250 words:`
+    - `Give your answer like an old timey private investigator hunting down a case step by step.`
+- Formatting
+    - `Use bullet points.`
+    - `Return as a JSON object.`
+    - `Use less technical terms and help me apply it in my work in communications.`
+- Restrictions
+    - `Only use academic papers.`
+    - `Never give sources older than 2020.`
+    - `If you don't know the answer, say that you don't know.`
 
 Here's Ethan and Lilach Mollick talking through an iterative approach to crafting a more effective prompt.
 
@@ -56,7 +72,7 @@ Part of the goal statement might be to include specific detail about what you're
 
 This is a way of inserting yourself and your experience and insight into the prompt, in a [collaborative interaction](./human-ai collaboration.md) with the model that further enhances the quality of the interaction.
 
-**Example** (using [Bard](https://bard.google.com/chat)).
+**Simple example** (using [Bard](https://bard.google.com/chat)).
 
 ```
 You are an ICU nurse with 20 years of experience. You have also completed several leadership and conflict resolution courses. I am a second year nursing student and I have a patient with a complicated presentation that I'm uncomfortable dealing with on my own. However, my clinical supervisor isn't the most approachable person and I'm reluctant to ask for help. Please give me some advice on how I might proceed. Give me examples and a series of steps I can follow.
@@ -123,9 +139,10 @@ This isn't a technical approach, but an example of a student-led use of generati
 
 This is a great example of student, teacher, and AI working together to reduce the time it takes to write a good recommendation letter. Everyone wins.
 
-# Additional reading
+# Additional resources
 
 - Bastian, M. (2023). GPT-4 goes a little AGI with Auto-GPT. The Decoder blog. Retrieved from https://the-decoder.com/gpt-4-goes-a-little-agi-with-auto-gpt/
+- facebookresearch. (2024, February 07). llama-recipes. Retrieved from https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb
 - Hardman, D. P. (2023). Structured Prompting for Educators. Dr Phil's Newsletter, Powered by DOMS️ AI. Retrieved from https://drphilippahardman.substack.com/p/structured-prompting-for-educators
 - Laurillard, D. (2002). *Rethinking University Teaching: A Conversational Framework for the Effective Use of Learning Technologies*.
 - Mastroianni, A. (2022). Good conversations have lots of doorknobs. Experimental History. Retrieved from https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs
