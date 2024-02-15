@@ -23,6 +23,7 @@
 	2. [History of generative AI](./history.md)
 	3. [Training](./training.md)
 	4. [Generative AI and artificial intelligence](ai.md)
+	5. [Personas](personas.md)
 4. [Large language models](./llms.md)
 	1. [Foundation models](./foundation.md)
 	2. [Tokens](./tokens.md)
