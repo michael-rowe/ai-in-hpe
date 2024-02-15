@@ -16,4 +16,4 @@ However, it may be that principles like these don't go far enough. Maybe, they o
 
 From my perspective, I'm not convinced that institutional policies will have the effect of helping students and staff develop AI-literacy and skills.
 
-Which is why I think it's important to focus our attention at a more granular level i.e. in the [classroom](./classroom-policy.md). 
+Which is why I think it's important to focus our attention at a more granular level i.e. in the [classroom](classroom-AI-policy.md). 

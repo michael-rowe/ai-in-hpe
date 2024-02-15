@@ -33,11 +33,11 @@
    1. [Copyright](./copyright.md)
 6. [Generative AI in the university](./university.md)
 	1. [AI-first institutions](./ai-first.md)
-	2. [Institutional policy development](./institutional-policy.md)
+	2. [Institutional policy development](institutional-AI-policy.md)
 7. Generative AI in the classroom
 	1. [Teacher roles and identity](./teacher-roles.md)
 	2. [Student roles and identity](./student-roles.md)
-	3. [Classroom policy development](./classroom-policy.md)
+	3. [Classroom policy development](classroom-AI-policy.md)
 	4. [Student collaboration](./student-collaboration.md)
 	5. [Assessment](./assessment.md)
 	6. [Responsible use of generative AI](./responsible.md)

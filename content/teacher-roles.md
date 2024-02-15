@@ -9,3 +9,8 @@ When we have society-wide access to expertise, why would someone go to a teacher
 There's going to be a lot about the changing or evolving role of teacher identity in the context of generative AI.
 
 I wonder if it's going to be more of a *return* to an identity we've lost.
+
+---
+
+# Additional resources
+
