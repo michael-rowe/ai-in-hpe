@@ -2,11 +2,11 @@
 
 *Note that most of these pages are currently blank. They'll fill up over time, as I work through my notes and resources. This is a framework that will guide my learning and over time will become a resource for anyone. Right now it's nothing but a collection of links.*
 
-1. [Why generative AI matters](./matters.md)
+1. [Why generative AI matters](./content/matters.md)
 	1. [Conversational interfaces](./conversational-ui.md)
 	2. [Ubiquitous AI](./ubiquitous.md)
 	3. [Hype cycle](./hype.md)
-	4. [Expertise](./expertise.md)
+	4. [Expertise](expertise.md)
 	5. [Magic](./magic.md)
 2. [Ethics](ethics.md)
 	1. [Bias](./bias)
