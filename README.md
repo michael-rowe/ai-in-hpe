@@ -1,7 +1,7 @@
 # Home
 
 > [!Caution]
-> This site is a work-in-progress. There is almost no content yet. The existing content is incomplete. Some links don't work. Some things are just opinions that I've made up. And some information is just plain wrong.[^1] Common sense is required.
+> This site is a work-in-progress. Several of the pages have very little. The existing content is incomplete. Some links don't work. Some things are just opinions that I've made up. And some information is just plain wrong.[^1] Common sense is required.
 
 This is a site[^2] I'm putting together to guide my own learning about generative AI in the context of health professions education. Use the **TOC link** in the menu above to get to the site content.
 
