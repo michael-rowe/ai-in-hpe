@@ -3,7 +3,7 @@ layout: default
 title: Blog launched
 date: 2023-12-29
 description: Where I describe the process of adding a blog to this site.
-tags: blog
+tags: []
 author: Michael Rowe
 ---
 

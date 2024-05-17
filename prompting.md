@@ -102,17 +102,23 @@ When you get into the habit of following up with generative AI, you'll quickly f
 
 ### Zero-shot prompting
 
-In this approach you ask the model to complete a new task without giving it any prior examples.
+Large language models are capable of following instructions and producing responses without having previously seen an example of a task. Prompting without examples is called "zero-shot prompting".
 
 ### Few-shot prompting
 
-You provide a few examples to establish a context for the model before giving it the actual task.
+Adding specific examples of your desired output generally results in more accurate, consistent output. This technique is called "few-shot prompting".
 
 For example, you might want to ask for an output in a certain style but you're not sure what that style might be called. In this case you could share an example of a style you like, or that you want it to emulate, and ask the model to describe that style. Then you can use that description of the style in your prompt. This works quite effectively with image generation prompts.
+
+### Role prompting
+
+Language models will often give more consistent responses when given a role (Kong et al. (2023). Roles give context to the LLM on what type of answers are desired.
 
 ### Chain-of-thought prompting
 
 Chain-of-thought prompting is a method that improves the reasoning abilities of large language models by providing a series of intermediate reasoning steps as exemplars in prompting. You are essentially guiding the model through a logical progression or sequence.
+
+Simply adding a phrase encouraging step-by-step thinking "significantly improves the ability of large language models to perform complex reasoning" (Wei et al. (2022).
 
 This is particularly useful for complex queries where the answer requires a series of steps or considerations.
 
@@ -144,11 +150,12 @@ This is a great example of student, teacher, and AI working together to reduce t
 - Bastian, M. (2023). GPT-4 goes a little AGI with Auto-GPT. The Decoder blog. Retrieved from https://the-decoder.com/gpt-4-goes-a-little-agi-with-auto-gpt/
 - facebookresearch. (2024, February 07). llama-recipes. Retrieved from https://github.com/facebookresearch/llama-recipes/blob/main/examples/Prompt_Engineering_with_Llama_2.ipynb
 - Hardman, D. P. (2023). Structured Prompting for Educators. Dr Phil's Newsletter, Powered by DOMS️ AI. Retrieved from https://drphilippahardman.substack.com/p/structured-prompting-for-educators
+- Kong, A., Zhao, S., Chen, H., Li, Q., Qin, Y., Sun, R., & Zhou, X. (2023). Better Zero-Shot Reasoning with Role-Play Prompting (arXiv:2308.07702). arXiv. http://arxiv.org/abs/2308.07702
 - Laurillard, D. (2002). *Rethinking University Teaching: A Conversational Framework for the Effective Use of Learning Technologies*.
 - Mastroianni, A. (2022). Good conversations have lots of doorknobs. Experimental History. Retrieved from https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs
 - Mollick, E. (2023). Now is the time for grimoires. One Useful Thing. Retrieved from https://www.oneusefulthing.org/p/now-is-the-time-for-grimoires
 - Mollick, E, and Mollick, L. (2023). Practical AI for Instructors and Students Part 3: Prompting AI.
-- Wei, J., Wang, X., Schuurmans, D., Bosma, M., Chi, E.H., Xia, F., Le, Q., & Zhou, D. (2022). Chain of Thought Prompting Elicits Reasoning in Large Language Models. _ArXiv, abs/2201.11903_ ([link to article in Semantic Reader](https://www.semanticscholar.org/reader/1b6e810ce0afd0dd093f789d2b2742d047e316d5))
+- Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., Chi, E., Le, Q., & Zhou, D. (2023). Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (arXiv:2201.11903). arXiv. https://doi.org/10.48550/arXiv.2201.11903
 
 ---
 
