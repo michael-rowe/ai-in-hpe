@@ -31,6 +31,18 @@ When designing assessment tasks, try to frame the activity so that it challenges
 - Ask students to include references from texts used during their studies, but not freely available on the internet.
 - Multimodal assessment, including elements such as infographics and video presentations, allow students to show their understanding in other ways.
 
+# Supercharged assessments
+
+I think we need to seriously consider the possibility that the only reasonable way forward is to allow students to use AI for their work, but we significantly increase the baseline of what we expect that work to look like. In my opinion, AI gives everyone a massive boost in capability in terms of what they are able to do. And so we should increase our expectations of what they submit for assessments.
+
+For example, instead of asking students to:
+
+- ...design a building and create detailed blueprints, ask them to not only design the building but also create a fully immersive virtual reality walkthrough of the structure, complete with realistic textures, lighting, and interactive elements. They must also optimise the building's energy efficiency, structural integrity, and environmental impact.
+- ...create a proposal for a public health initiative, ask them to launch an actual public health campaign that identifies at-risk populations, optimises resource allocation, and personalises outreach messages. In addition, the campaign should demonstrate a measurable impact on public health outcomes.
+- ...write a research paper on an environmental policy issue, ask them to develop an AI-powered decision support system for environmental policymakers. They should also create an interactive interface that allows policymakers to explore different policy options and understand their potential impacts.
+
+**If AI enables 'superhuman' performance, then our assessments should be modified to evaluate superhuman outputs.**
+
 ---
 
 # Additional resources
