@@ -1,23 +1,37 @@
-# Home
+---
+tags:
+  - AI-literacy
+  - skills
+  - framework
+  - digital-literacy
+---
+# Developing AI literacy
 
-> [!Caution]
-> This site is a work-in-progress. Several of the pages have very little content. The existing content is incomplete. Some links don't work. Some things are just opinions that I've made up. And some information is just plain wrong.[^1] Common sense is required.
+Developing AI literacy is a increasingly considered a key skill for all stakeholders in health professions education.
 
-This is a site[^2] I'm putting together to guide my own learning about generative AI in the context of health professions education. Use the **TOC link** in the menu above to get to the site content.
+Here is a framework for developing AI literacy (Allen & Kendeou, 2023):
 
-Over the past year or so, I've kept up to date with the accelerating progression of generative AI development in a haphazard and ad hoc fashion. I subscribe to newsletters, blog posts, YouTube channels, podcasts, and academic journals, mostly just consuming whatever happens to be included in the deluge that comes my way. In 2024 I want to take a more intentional approach to my learning about generative AI.
+- Knowledge: Understand how AI works and its principles.
+- Evaluation: Critically judge AI's strengths, limitations, and biases.
+- Collaboration: Communicate and collaborate effectively with AI systems and people.
+- Contextualisation: Use AI as a tool in real-world settings.
+- Autonomy: Make independent decisions while interacting with AI.
+- Ethics: Address moral issues like fairness, accountability, transparency, and privacy.
 
-So I've put together a curriculum for myself. This site is the framework for that curriculum, which I'll update as I work through my notes.
+The PAIR framework (Acar, 2023) is another option to consider when developing AI literacy (there are many frameworks but this is one that appeals to me).
 
-And I figured I might as well do all the work in public, just in case it's useful for someone else.
+> The PAIR (Problem, AI, Interaction, Reflection) framework emerges from a motivation to proactively integrate AI into our curricula. Specifically, PAIR aims to cultivate five essential skills that are paramount for leveraging these technologies responsibly: problem formulation, exploration, experimentation, critical thinking, and reflection.
 
-**Background**
+1. Problem formulation: define the problem or challenge you aim to address with generative AI. Identify the core problem, its components and constraints
+2. AI tool selection: identify and choose the most suitable generative AI tools to address the problem, a process which should involve exploring, comparing, and evaluating the features of various generative AI options.
+3. Interaction: deploy the generative AI tools on the problem, experimenting with diverse inputs and critically evaluating the outputs. Experiment with different ways to interact; critically evaluate outputs and integrate them to tackle the problem
+4. Reflection: Evaluate how the AI tool helped or hindered problem-solving; reflect on your feelings when collaborating with AI; assess and report on the experience with the generative AI tools.
 
-- Before you start, you may want to check out these suggestions on [how to use this resource](./how.md).
-- If you're feeling feisty, find out how to [participate](./participate.md).
-- [Roadmap](./roadmap.md) for the project.
+![[PAIR framework for developing generative AI skills.png]]
 
 ---
 
-[^1]: Unsurprisingly, this is just like you get with a language model.
-[^2]: I'm not sure what exactly this resource is going to be. It may be a phased approach where it starts as something more like a dictionary of terms, then becomes a wiki, and maybe progressing to an online course.
+# Additional resources
+
+- Acar, O. (2023). Are Your Students Ready for AI? A 4-Step Framework to Prepare Learners for a ChatGPT World. Harvard Business Publishing Education. Retrieved from https://hbsp.harvard.edu/inspiring-minds/are-your-students-ready-for-ai
+- Allen, L. K., & Kendeou, P. (2023). ED-AI Lit: An Interdisciplinary Framework for AI Literacy in Education. Policy Insights from the Behavioral and Brain Sciences, 23727322231220339. https://doi.org/10.1177/23727322231220339
