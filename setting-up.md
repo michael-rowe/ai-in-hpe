@@ -59,8 +59,24 @@ In Git, a 'commit' is the change you've made to the project. This could be in th
 - Choose the Commit icon in the left-hand navigation panel (it looks like a network with nodes).
 - You'll see all the changes you've made to the files in the project (remember that your changes have only been made locally on your machine...they're not part of the project yet).
 - Click on the 'Commit' button at the top of the panel.
-- 
+- You'll need to add a short comment that describes what it is that you've changed. This might be as simple as saying 'added new content' but may be more descriptive, depending on the nature of the change.
+- Save your comment by clicking on the tick icon in the rop right.
+- Sync your changes by clicking on the Sync button.
+
+
+## Check that your changes have been made
+
+It takes a couple of minutes for your updates to be converted and pushed to the Github Pages site for the project.
+
+- Go to https://michael-rowe.github.io/ai-in-hpe//your-name to check that your new file has been correctly uploaded.
+- Again, don't worry about how it looks. Once you've set up VS Code, and learned a bit of markdown, you can make it look almost any way you want.
+
 
 ## Explore writing in markdown
 
 Markdown is a way to add structure to information in plain text.
+
+
+## Install the Github mobile app
+
+The Github mobile app enables you to edit the website from anywhere, at any time.
