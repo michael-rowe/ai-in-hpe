@@ -4,11 +4,11 @@ This project is focused on the idea of a networked and decentralised process of 
 
 ## Install and set up Git
 
-Git is a distributed version control system that tracks versions of files. It is often used to control source code by programmers collaboratively developing software. Git runs in the background and enables you to submit changes that automatically update the website. Note that you do not have to know anything about Git to work on this project. However, more information is available at the Wikipedia page: https://en.wikipedia.org/wiki/Git.
+Git is a distributed version control system that tracks versions of files. It is often used to control source code by programmers collaboratively developing software. Git runs in the background and enables you to submit changes that automatically update the website. Note that you do not have to know anything about Git to work on this project. However, more information is available at the Wikipedia page: [https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git).
 
-- Go to https://git-scm.com/downloads.
+- Go to [https://git-scm.com/downloads](https://en.wikipedia.org/wiki/Git).
 - Download and install Git.
-- Immediately after installing git, set your username and password. This is what Git will use to identify your contributions. You can read about this in more detail here: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup. Again, you don't need to know any of this in order to make contributions.
+- Immediately after installing git, set your username and password. This is what Git will use to identify your contributions. You can read about this in more detail here: [https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup). Again, you don't need to know any of this in order to make contributions.
 - Open a terminal.
 	- Windows: Press the Windows key and then type *cmd*, *Command Prompt*, or *PowerShell*.
 	- Mac: Click the Launchpad icon in the Dock, type *Terminal* in the search field, then click *Terminal*.
@@ -31,7 +31,7 @@ GitHub is a developer platform that allows developers to create, store, manage a
 
 Visual Studio Code (VS Code) is a source-code editor that includes support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded version control with Git.
 
-- Go to https://code.visualstudio.com/.
+- Go to [https://code.visualstudio.com/](https://code.visualstudio.com/).
 - Download and install Visual Studio Code.
 - Open **Visual Studio Code** (VS Code) from your menu. Don't do anything here yet.
 - Navigate to the [AI-in-HPE repository](https://github.com/michael-rowe/ai-in-hpe) in your browser.
@@ -68,7 +68,7 @@ In Git, a 'commit' is the change you've made to the project. This could be in th
 
 It takes a couple of minutes for your updates to be converted and pushed to the Github Pages site for the project.
 
-- Go to https://michael-rowe.github.io/ai-in-hpe//your-name to check that your new file has been correctly uploaded.
+- Go to [https://michael-rowe.github.io/ai-in-hpe/](https://michael-rowe.github.io/ai-in-hpe/)**your-name** to check that your new file has been correctly uploaded. Make sure you replace "your-name" with the name you used to create the new file.
 - Again, don't worry about how it looks. Once you've set up VS Code, and learned a bit of markdown, you can make it look almost any way you want.
 
 
@@ -78,8 +78,8 @@ It takes a couple of minutes for your updates to be converted and pushed to the 
 
 Markdown is a lightweight markup language for creating structured text using a plain-text editor. Markdown is widely used for blogging and instant messaging, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files.
 
-- Learn more about Markdown here: https://en.wikipedia.org/wiki/Markdown
-- See this Markdown cheatsheet here: https://www.markdownguide.org/cheat-sheet/
+- Learn more about Markdown here: [https://en.wikipedia.org/wiki/Markdown](https://en.wikipedia.org/wiki/Markdown).
+- See this Markdown cheatsheet here: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/).
 
 
 ## Install the Github mobile app
