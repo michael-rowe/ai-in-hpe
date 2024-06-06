@@ -23,6 +23,8 @@ At a deeper level, the prompt establishes the context for the interaction.
 
 ## Conversational prompting
 
+See also Tu, et al. (2024). _Towards Conversational Diagnostic AI_ (arXiv:2401.05654). arXiv. [http://arxiv.org/abs/2401.05654](http://arxiv.org/abs/2401.05654)
+
 Most of the prompts you'll use with LLMs are known as *conversational prompts*.
 
 > Conversational affordances are things like digressions and confessions and bold claims that beg for a rejoinder. Talking to another person is like rock climbing, except you are my rock wall and I am yours. If you reach up, I can grab onto your hand, and we can both hoist ourselves skyward. Maybe that’s why a really good conversation feels a little bit like floating ([Mastroianni, 2022](https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs)).
