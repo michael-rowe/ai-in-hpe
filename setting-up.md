@@ -1,5 +1,6 @@
 # Setting up the environment
 
+This project is focused on the idea of a networked and decentralised process of creating and sharing new ideas. And the technology choices aim to reflect those central ideas. Unfortunately, this means a slightly more technical setup than simply joining a shared folder in Google Drive. However, it's not too challenging, and I'm happy to connect with anyone who is interested but lacks the confidence to set this up independently.
 
 ## Install and set up Git
 
