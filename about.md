@@ -1,5 +1,7 @@
 # About
 
+test
+
 ## Rationale for the project
 
 I've been conscious of the fact that most of what I've learned about generative AI has been haphazard and ad hoc. Basically, whatever shows up in my feed (blog posts, podcasts, Twitter, etc) is what I've paid attention to. While I have spent time building that feed, I haven't had any direction or goals that would help to make my exploration and learning more intentional.
