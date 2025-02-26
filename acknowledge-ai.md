@@ -1,10 +1,14 @@
+# Acknowledging your use of AI
+
 Journals and book publishers seem increasingly open to the idea of authors making use of [generative AI in the writing process](./writing.md), although most will not allow generative AI models to be credited as co-authors.
 
 In the spirit of sharing resources, I thought it might be useful to provide a template that authors might use when submitting work that has been developed with generative AI. The example below was used for a book chapter but with some minor editing it could serve for an article as well.
 
 ---
 
-**Acknowledgement of the use of generative AI in writing this chapter**
+## Example
+
+Acknowledgement of the use of generative AI in writing this chapter.
 
 I acknowledge that I have used MODEL (VERSION) to support the writing process in the production of this chapter. In this I was guided by the recommendations of the NEJM AI editorial board (Koller, et al., 2023).
 
@@ -27,6 +31,6 @@ Throughout the dialogue, I integrated MODEL's suggestions and ideas into my own 
 
 ---
 
-# Additional resources
+## Additional resources
 
-- Koller, D., Beam, A., Manrai, A., Ashley, E., Liu, X., Gichoya, J., Holmes, C., Zou, J., Dagan, N., Wong, T. Y., Blumenthal, D., Kohane, I., & the editors and editorial board of NEJM AI. (2023). Why We Support and Encourage the Use of Large Language Models in NEJM AI Submissions. _NEJM AI_, _1_(1), AIe2300128. https://doi.org/10.1056/AIe2300128
+- Koller, D., Beam, A., Manrai, A., Ashley, E., Liu, X., Gichoya, J., Holmes, C., Zou, J., Dagan, N., Wong, T. Y., Blumenthal, D., Kohane, I., & the editors and editorial board of NEJM AI. (2023). [Why We Support and Encourage the Use of Large Language Models in NEJM AI Submissions](https://doi.org/10.1056/AIe2300128). NEJM AI,1(1), AIe2300128.

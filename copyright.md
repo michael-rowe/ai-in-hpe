@@ -1,24 +1,35 @@
-# Copyright and generative AI
+# Copyright and Generative AI
 
-## Copyright in training
+For health professions educators working with generative AI, understanding copyright implications is essential, both in terms of how AI systems are trained and how their outputs can be used in educational settings.
 
+## Copyright in Training
 
-There are ongoing concerns around copyright infringement in the use of some content in the generative AI [training](./training.md) process.
+The training of generative AI models on copyrighted materials remains a significant legal and ethical concern in education. This issue has sparked numerous debates and legal actions in the publishing industry, highlighting important considerations for educators who create or use copyrighted materials.
 
-In early 2024 [Time sued Microsoft and OpenAI](https://the-decoder.com/times-sues-microsoft-openai-for-copyright-infringement/) for copyright infringement, alleging that they used millions of Time's copyrighted work in their training data.
+For context, several notable cases have emerged:
 
-This follows from the authors guild [threatening to sue](https://the-decoder.com/authors-guild-threatens-leading-ai-companies-with-another-copyright-lawsuit/) leading AI companies with copyright lawsuits.
+- [Time's lawsuit against Microsoft and OpenAI](https://the-decoder.com/times-sues-microsoft-openai-for-copyright-infringement/) over the use of copyrighted content
+- The [Authors Guild's legal actions](https://the-decoder.com/authors-guild-threatens-leading-ai-companies-with-another-copyright-lawsuit/) against AI companies
+- [Stephen King's perspective](https://the-decoder.com/stephen-king-wont-object-to-his-work-being-used-to-train-ai-systems/) on AI training, offering a contrasting view
 
-In contrast, Stephen King has noted that he [doesn't mind](https://the-decoder.com/stephen-king-wont-object-to-his-work-being-used-to-train-ai-systems/) if his work is used to train generative AI models.
+For health professions educators, these cases raise important questions about:
 
-This has parallels in art, but the response from artists seems to have been different.
+- The use of academic publications in AI training
+- The rights of educational content creators
+- The implications for educational materials development
+- The future of academic publishing in an AI-enabled world
 
+## Copyright in Output
 
-## Copyright in output
+When using generative AI in health professions education, understanding output ownership is crucial. AI service providers typically address this through their terms of service. For example, Anthropic's terms for Claude specify that users retain ownership of generated outputs.
 
-And there are also questions about how owns the output of language models. In most cases, these are documented in the terms of service. For example, Athropics ToS in relation to Claude states that users "...retain ownership rights over any outputs you generate through your use of our services."
+Key considerations for educators include:
+
+- Attribution requirements for AI-generated content
+- Integration of AI outputs into educational materials
+- Institutional policies regarding AI-generated content
+- Documentation and transparency in using AI tools
 
 ---
 
-# Additional reading
-
+## Additional Reading

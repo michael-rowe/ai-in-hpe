@@ -1,19 +1,49 @@
-# Agency in learning
+# Agency in Learning with AI
 
-It's true that for now, a human needs to start the learning process. AI in itself has no motivation to start anything.
+The relationship between artificial intelligence and learner agency presents unique opportunities and challenges in health professions education. While AI systems require human initiation to begin any learning process, the question of *who* initiates that process is crucial.
 
-It has no goals and no objectives.
+## Beyond teacher-centred AI integration
 
-The point has been made that a human (when teachers make this argument, a 'teacher') needs to start the process.
+Traditionally, discussions about AI in education focus on how teachers can use these tools to:
 
-But this often misses the point that the human with the agency and motivation to initiate the learning journey could (should?) be a student.
+- Design curricula
+- Create learning materials
+- Develop assessments
+- Structure learning experiences
 
-For example, we've seen the discussion where teachers are exploring the ethics of using AI to create course outlines, outcomes, content, and assessment. But, I haven't seen anyone debating the ethics of students using AI to create course outlines, outcomes, content, and assessment. I haven't seen any serious discussion about what the world looks like when students truly take control of their own learning.
+However, this perspective often overlooks a fundamental shift: learners themselves can now harness AI to support their educational journey.
 
-And let's be clear, they're not going to ask for permission.
+## Student agency in the AI era
 
-The question often seems to come back to, "Is this how we want to teach?" I don't think this is the right question. The right question is, "What if this is how we enable more people to learn?"
+Health professions students are increasingly taking ownership of their learning through AI tools. This shift raises important considerations:
+
+### Student-initiated learning
+
+- Students can create personalized study guides
+- Learners may generate practice questions
+- Self-directed exploration of complex medical concepts
+- Customized learning pathways based on individual needs
+
+### Implications for educators
+
+- Moving from content delivery to learning facilitation
+- Supporting students in effective AI tool use
+- Developing critical evaluation skills
+- Creating environments that embrace student agency
+
+## Reframing the discussion
+
+The central question isn't whether AI aligns with traditional teaching methods, but rather how it can expand access to learning and support diverse educational needs in health professions education. This shift requires educators to consider:
+
+- How to empower students as active agents in their learning
+- Ways to integrate AI tools thoughtfully and ethically
+- Methods to support self-directed learning
+- Strategies for developing critical thinking in an AI-enhanced environment
+
+## Looking forward
+
+The future of health professions education lies not in restricting AI use, but in embracing its potential to enhance learner agency while maintaining educational integrity and professional standards.
 
 ---
 
-# Additional resources
+## Additional resources
